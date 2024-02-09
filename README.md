@@ -1,4 +1,4 @@
-##select samples
+## Select samples
 
 Use select_sample_projects.py to extract the samples. 
 
